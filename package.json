@@ -1,0 +1,23 @@
+{
+  "name": "autocomplete-hs",
+  "version": "1.0.0",
+  "description": "https://lotus-1.github.io/Autocomplete-HS/",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "tape index.test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotus-1/autocomplete-hs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lotus-1/autocomplete-hs/issues"
+  },
+  "homepage": "https://github.com/lotus-1/autocomplete-hs#readme",
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.10.1"
+  }
+}
