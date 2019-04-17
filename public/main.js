@@ -1,6 +1,8 @@
-var input = document.getElementById("search");
-function autocomplete (input) {
-  if (input === typeof(text)){
-    return input;
-  }
-}
+
+// function autocomplete (input) {
+//   if (typeof(input) === 'string' ) {
+//     return input;
+//   }
+// }
+//
+ module.exports = autocomplete;
