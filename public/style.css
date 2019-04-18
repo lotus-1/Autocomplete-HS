@@ -9,7 +9,7 @@ h1 {
   color: #732673;
   font-size: 50px;
 }
-/* input {
+input {
   width: 70%;
   max-width: 550px;
   height: 80px;
@@ -27,7 +27,7 @@ h1 {
 
 input[type="text"]:focus {
   max-width: 400px;
-} */
+}
 @media only screen and (min-width: 601px) {
   #search {
     font-size: 48px;
