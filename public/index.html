@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<link rel="stylesheet" href="style.css">
-  <head>
+<head>
+<link rel="stylesheet" href="public/style.css">
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Autocomplete flower Name!</title>
   </head>
   <body>
-    <section>
       <h1>Search Your Flower!</h1>
-      <input id="search" class="search" type="text" value=""></input>
-    </section>
+    <form>
+      <input autocomplete="off" type ="text" id="search" placeholder="Type your flower name"  class="search">
+      </input>
+      <!-- <img src="./assets/search-icon.png" alt="search icon"> -->
+    </form>
+    <script src="public/main.js"></script>
   </body>
 </html>
