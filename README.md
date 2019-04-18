@@ -6,9 +6,6 @@
 ##### Sabeel Halabi : @sabeel29:wink:
 
 <br>
-Enter [here](https://lotus-1.github.io/Autocomplete-HS/) to see our super page
-<br>
-<br>
 **Description to describe the website**<br>
 Our page is a autocomplete page , user can search for the flower he want.
 
